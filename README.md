@@ -5,7 +5,7 @@ This project was conducted for a leading financial institution, the company has 
 
 **Key metrics** of interest include customer risk scores, credit utilization, and default likelihood. 
 
-## Data Structure & Initial Checks
+## Dataset Structures 
 
 The primary data structure used for this analysis and modeling is the combination of two major sources:
 
